@@ -4,7 +4,7 @@
 
 ##Paiza
 
-- ![oshito manaberu](./image/p2.png)
+- ![oshito manaberu](./image/p11.png)
 - ![恋するハッカソン](./image/p3.png)
 
 ##Python
